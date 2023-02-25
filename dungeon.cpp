@@ -127,8 +127,6 @@ void calcpos(int ys,int xs)
         Q.pop();
     }
     road(pozy,pozx);
-    for(int i=0;i<idx;i++)
-        cout<<movecombos[i];
 }
 
 int main()
